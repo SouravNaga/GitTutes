@@ -3,5 +3,6 @@ public class Main {
     {
         System.out.println("First day");
         System.out.println("second day");
+        System.out.println("third day");
     }
 }
